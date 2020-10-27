@@ -7,6 +7,7 @@ b = math.factorial(5)
 print(b)
 
 c = math.dgrees(math.pi)
-ptiny(c)
+print(c)
 
 d = math.pow(4,4)
+print(p)
